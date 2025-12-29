@@ -49,8 +49,6 @@ Ik leer door te bouwen: **ship → meten → verbeteren**.
 ## 📌 Projecten
 - **Dijkstra's Algoritme**
   _repo:_ `https://github.com/Maarten-de-Groot/Dijkstra-s-Algoritme`
-- **URL Shortener** – kortere links + stats  
-  _repo:_ `https://github.com/Maarten-de-Groot/url-shortener`
 
 > Repos bevatten: `README`, `.env.example` en `docker-compose.yml` waar nodig, voor een snelle start.
 
