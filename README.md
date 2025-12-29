@@ -11,14 +11,6 @@ Ik leer door te bouwen: **ship → meten → verbeteren**.
 
 ---
 
-## 🔭 Nu mee bezig
-**URL Shortener** – snelle, minimalistische link shortener met analytics  
-`Flask · Flask-WTF3  · Flask-SQLAlchemy (SQLite) · Redis · Docker`  
-- Endpoints: `POST /shorten`, `GET /<code>`, `GET /stats/<code>`  
-- Features: custom aliassen, TTL/expiry, UTM-clean, basic analytics
-
----
-
 ## 🧰 Stack
 
 **Core**
